@@ -1,0 +1,24 @@
+.my-list .spe .am-list-extra {
+  flex-basis: initial;
+}
+.my-list a {
+  color: dodgerblue;
+  cursor: pointer !important;
+}
+.my-list .words {
+  color: #888;
+  font-size: 15px;
+  line-height: 1.5;
+  margin-top: 6px;
+  width: auto;
+  white-space: break-all;
+}
+.title-list .am-list-item .am-list-line .am-list-brief {
+  padding-left: 10px;
+}
+.kuaidi-list .am-list-line {
+  padding: 5px;
+}
+.kuaidi-list .am-list-item .am-list-line .am-list-brief {
+  margin-top: 0;
+}
